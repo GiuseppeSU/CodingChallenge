@@ -1,0 +1,92 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+body{
+  width: auto;
+  height: auto;
+  background-image: url(img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: 1920px 1080px;
+
+
+}
+
+.contain{
+  margin: 0 auto;
+  margin-top: 15px;
+  padding: 50px 50px 50px 50px;
+  border-radius: 15px;
+  width: 75%;background-color: rgba(0, 0, 0, 0.5);
+  text-align:center;
+
+}
+
+.logo{
+  margin-top: 50px;
+text-align: center;
+width:150px;
+}
+
+.text{
+  text-align: center;
+  color: limegreen;
+}
+
+.pulsanti{
+  color: limegreen;
+  text-align: center;
+  font-size: 40px;
+  background-color: limegreen;
+  height: 43px;
+  margin: 10px;
+
+
+
+}
+
+.tasti{
+  padding-top: : 50px;
+  margin-top: : 10px;
+  margin-bottom: 10px;
+  vertical-align: middle;
+}
+
+
+.monopattino{
+  text-align:left;
+  color: white;
+  margin-top: 10px;
+}
+
+
+.Gino{
+  font-size: 30px;
+
+}
+
+
+.barragialla{
+  background-color: orange;
+  border-radius: 10PX;
+  height: 35px;
+  width: 33%;
+}
+
+
+.barraverde{
+  background-color: limegreen;
+  border-radius: 10px;
+  height: 35px;
+  width: 40%;
+}
+
+
+.barrarossa{
+  background-color: red;
+  border-radius: 10pz;
+  height: 25px;
+  width: 22%;
+}
